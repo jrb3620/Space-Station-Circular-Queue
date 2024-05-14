@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\jonat\Documents\DSA Ada Projects\Lab 1\default.gpr
+20240119155504 93ef9b31c9d918c752b2ab18b015e480
+[BOUND OBJECT FILES]
+C:\Users\jonat\Documents\DSA Ada Projects\Lab 1\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\jonat\Documents\DSA Ada Projects\Lab 1\obj\
+-LC:\Users\jonat\Documents\DSA Ada Projects\Lab 1\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
