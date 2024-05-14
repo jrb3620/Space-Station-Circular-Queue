@@ -1,0 +1,1 @@
+distribution_service.adb:12:09: warning: variable "randFloat" is never read and never assigned [-gnatwv]

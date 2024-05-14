@@ -1,0 +1,28 @@
+[GENERATED OBJECT FILE]
+b__productdistributionmain.o
+[PROJECT FILES]
+C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr
+20240124023356 9ba6cdc634c21ae316ea617f95c72be2
+[BOUND OBJECT FILES]
+C:\Users\jonat\Documents\DSA Ada Projects\obj\food_datastructures.o
+C:\Users\jonat\Documents\DSA Ada Projects\obj\stats_fooddistribution.o
+C:\Users\jonat\Documents\DSA Ada Projects\obj\circularque.o
+C:\Users\jonat\Documents\DSA Ada Projects\obj\gatekeeperservice.o
+C:\Users\jonat\Documents\DSA Ada Projects\obj\food_salesservice.o
+C:\Users\jonat\Documents\DSA Ada Projects\obj\distribution_service.o
+C:\Users\jonat\Documents\DSA Ada Projects\obj\productdistributionmain.o
+[GENERATED SOURCE FILES]
+b__productdistributionmain.ads
+b__productdistributionmain.adb
+b__productdistributionmain.ali
+[RESULTING OPTIONS]
+-LC:\Users\jonat\Documents\DSA Ada Projects\obj\
+-LC:\Users\jonat\Documents\DSA Ada Projects\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnarl.a
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads

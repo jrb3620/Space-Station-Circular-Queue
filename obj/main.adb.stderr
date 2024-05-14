@@ -1,2 +1,0 @@
-cannot generate code for file main.adb (package spec)
-main.adb:24:10: warning: file name does not match unit name, should be "circularque.ads" [enabled by default]

@@ -1,0 +1,170 @@
+V "GNAT Lib v2021"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_DELAY
+RV NO_FIXED_POINT
+RV NO_FLOATING_POINT
+RV NO_IO
+RV NO_RELATIVE_DELAY
+RV NO_STANDARD_STORAGE_POOLS
+RV NO_TASKING
+RV NO_DEFAULT_INITIALIZATION
+RV NO_IMPLEMENTATION_PRAGMAS
+RV NO_ELABORATION_CODE
+
+U distribution_service%b  distribution_service.adb  022129b5 OO PK
+W ada%s			ada.ads			ada.ali
+Z ada.calendar.delays%s	a-caldel.adb		a-caldel.ali
+W ada.float_text_io%s	a-flteio.ads		a-flteio.ali
+W ada.integer_text_io%s	a-inteio.ads		a-inteio.ali
+W ada.numerics%s	a-numeri.ads		a-numeri.ali
+W ada.numerics.float_random%s  a-nuflra.adb	a-nuflra.ali
+Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W food_datastructures%s	food_datastructures.adb	food_datastructures.ali
+W gatekeeperservice%s	gatekeeperservice.adb	gatekeeperservice.ali
+Z system%s		system.ads		system.ali
+Z system.soft_links%s	s-soflin.adb		s-soflin.ali
+Z system.tasking%s	s-taskin.adb		s-taskin.ali
+Z system.tasking.rendezvous%s  s-tasren.adb	s-tasren.ali
+Z system.tasking.stages%s  s-tassta.adb		s-tassta.ali
+
+U distribution_service%s  distribution_service.ads  16cf99e2 EE NE OO PK
+Z ada.real_time%s	a-reatim.adb		a-reatim.ali
+Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
+W food_datastructures%s	food_datastructures.adb	food_datastructures.ali
+W stats_fooddistribution%s  stats_fooddistribution.adb  stats_fooddistribution.ali
+Z system%s		system.ads		system.ali
+Z system.parameters%s	s-parame.adb		s-parame.ali
+Z system.task_info%s	s-tasinf.adb		s-tasinf.ali
+Z system.tasking%s	s-taskin.adb		s-taskin.ali
+Z system.tasking.stages%s  s-tassta.adb		s-tassta.ali
+
+D ada.ads		20210520051132 76789da1 ada%s
+D a-calend.ads		20210520051128 474d9720 ada.calendar%s
+D a-caldel.ads		20210520051128 9f20b83d ada.calendar.delays%s
+D a-except.ads		20210520051128 946f3014 ada.exceptions%s
+D a-finali.ads		20210520051128 bf4f806b ada.finalization%s
+D a-flteio.ads		20210520051128 e18a47a0 ada.float_text_io%s
+D a-inteio.ads		20210520051128 f64b89a4 ada.integer_text_io%s
+D a-ioexce.ads		20210520051128 e4a01f64 ada.io_exceptions%s
+D a-numeri.ads		20210520051130 84bea7a3 ada.numerics%s
+D a-nudira.ads		20210520051130 5984dff3 ada.numerics.discrete_random%s
+D a-nuflra.ads		20210520051130 4056ab7a ada.numerics.float_random%s
+D a-reatim.ads		20210520051128 0240fc73 ada.real_time%s
+D a-stream.ads		20210520051130 119b8fb3 ada.streams%s
+D a-string.ads		20210520051130 90ac6797 ada.strings%s
+D a-sttebu.ads		20210520051130 18209c64 ada.strings.text_buffers%s
+D a-stuten.ads		20210520051130 808c40ad ada.strings.utf_encoding%s
+D a-tags.ads		20210520051130 9eaa38c6 ada.tags%s
+D a-textio.ads		20210520051130 aef4d56d ada.text_io%s
+D a-tienio.ads		20210520051130 2e79c9bf ada.text_io.enumeration_io%s
+D a-tiflio.ads		20210520051130 fcca4daa ada.text_io.float_io%s
+D a-tiinio.ads		20210520051130 390edddb ada.text_io.integer_io%s
+D a-unccon.ads		20210520051130 0e9b276f ada.unchecked_conversion%s
+D circularque.ads	20240228004226 185f97fc circularque%s
+D distribution_service.ads  20240124023404 e4fa9b10 distribution_service%s
+D distribution_service.adb  20240124023404 cff3c9ca distribution_service%b
+D food_datastructures.ads  20240212161228 a9838647 food_datastructures%s
+D food_salesservice.ads	20240227235204 5fd320c1 food_salesservice%s
+D gatekeeperservice.ads	20240301155148 d73c9856 gatekeeperservice%s
+D interfac.ads		20210520051132 edec285f interfaces%s
+D i-c.ads		20210520051132 d9beded9 interfaces.c%s
+D i-cstrin.ads		20210520051132 341d0ddf interfaces.c.strings%s
+D i-cstrea.ads		20210520051132 e53d8b8e interfaces.c_streams%s
+D stats_fooddistribution.ads  20240124023404 5bb684b5 stats_fooddistribution%s
+D system.ads		20210520051136 2ffa5114 system%s
+D s-atacco.ads		20210520051132 4c36d12f system.address_to_access_conversions%s
+D s-crtl.ads		20210520051132 0ebbdb71 system.crtl%s
+D s-exctab.ads		20210520051132 54135002 system.exception_table%s
+D s-ficobl.ads		20210520051132 078245e4 system.file_control_block%s
+D s-finroo.ads		20210520051132 4ff27390 system.finalization_root%s
+D s-multip.ads		20210520051134 38ac9f73 system.multiprocessors%s
+D s-osinte.ads		20210520051128 97504df8 system.os_interface%s
+D s-parame.ads		20210520051134 4752c4cb system.parameters%s
+D s-putima.ads		20210520051134 4e095881 system.put_images%s
+D s-rannum.ads		20210520051134 c3978523 system.random_numbers%s
+D s-secsta.ads		20210520051134 9b3ab94b system.secondary_stack%s
+D s-soflin.ads		20210520051134 a7318a92 system.soft_links%s
+D s-stache.ads		20210520051134 a37c21ec system.stack_checking%s
+D s-stausa.ads		20210520051134 017a0a05 system.stack_usage%s
+D s-stalib.ads		20210520051134 472fbca8 system.standard_library%s
+D s-stoele.ads		20210520051134 2dc34a04 system.storage_elements%s
+D s-stoele.adb		20210520051134 ed88f8fb system.storage_elements%b
+D s-tasinf.ads		20210520051128 601f6b72 system.task_info%s
+D s-taspri.ads		20210520051128 a1350802 system.task_primitives%s
+D s-taprop.ads		20210520051128 6eefbe12 system.task_primitives.operations%s
+D s-taskin.ads		20210520051128 88fba9ad system.tasking%s
+D s-taprob.ads		20210520051128 acd6094d system.tasking.protected_objects%s
+D s-tpoben.ads		20210520051128 60ad3dae system.tasking.protected_objects.entries%s
+D s-tasren.ads		20210520051128 a67a9949 system.tasking.rendezvous%s
+D s-tassta.ads		20210520051128 cca55c94 system.tasking.stages%s
+D s-traent.ads		20210520051134 26a8d361 system.traceback_entries%s
+D s-unstyp.ads		20210520051134 2b077493 system.unsigned_types%s
+D s-wchcon.ads		20210520051136 1b7d22d2 system.wch_con%s
+D s-win32.ads		20210520051136 15ac53fb system.win32%s
+D unchconv.ads		20210520051136 ca2f9e18 unchecked_conversion%s
+G a e
+G c Z s b [product_generator distribution_service 6 14 none]
+G c Z s s [product_generatorVIP distribution_service 6 4 none]
+G r c none [product_generator distribution_service 6 14 none] [randomfoodtype food_datastructures 31 13 none]
+G r c none [product_generator distribution_service 6 14 none] [setfood_packfoodtype food_datastructures 27 14 none]
+G r c none [product_generator distribution_service 6 14 none] [getfood_packfoodtype food_datastructures 23 14 none]
+G r c none [product_generator distribution_service 6 14 none] [setfood_packshipment food_datastructures 29 14 none]
+G r c none [product_generator distribution_service 6 14 none] [preparegrainvegetablefood_packforsales stats_fooddistribution 17 13 none]
+G r c none [product_generator distribution_service 6 14 none] [preparemeatfood_packforsales stats_fooddistribution 19 13 none]
+G r c none [product_generator distribution_service 6 14 none] [printfood_packshipment food_datastructures 21 14 none]
+G r r none [product_generator distribution_service 6 14 none] [acceptmessage gatekeeperservice__gatekeeper 13 13 none]
+G r c none [product_generator distribution_service 6 14 none] [next_exponential stats_fooddistribution 14 13 none]
+X 1 ada.ads
+16K9*Ada 20e8 25|4r6 4r23 5r6 5r33 5r46 5r65 6r6 6r33 6r46 6r65
+X 6 a-flteio.ads
+20K13*Float_Text_IO[20|46] 25|5w50 6r50
+X 7 a-inteio.ads
+18K13*Integer_Text_IO[21|46] 25|5w69 6r69
+X 9 a-numeri.ads
+16K13*Numerics 35e17 25|5r10 6r10
+X 11 a-nuflra.ads
+41K22*Float_Random 74e30 25|5w19 6r19
+47R9*Generator<44|65R9> 25|11r33
+X 18 a-textio.ads
+58K13*Text_IO 725e16 25|4w10 4r27 5w37 6r37
+262U14*New_Line 25|36s67 52s10
+463U14*Put 25|36s46 51s10 51s70
+X 20 a-tiflio.ads
+82U14*Put 25|51s47[6|20]
+X 24 distribution_service.ads
+4K9*Distribution_Service 9l5 9e25 25|8b14 63l6 63t26
+6T14*Product_Generator 25|10b13 61l8 61t25
+X 25 distribution_service.adb
+11r9 RandFloatGenerator{11|47R9}
+12f9 randFloat{float}
+14r9 newFood{26|15R9} 23m32 23r32 24r34 25m35 25r35 27m35 27r35 30r35 36r34
+. 43r36
+16f9 nextArrivalDelay{float} 48m10 50m10 50r30 51r51 56r35
+X 26 food_datastructures.ads
+5K9*Food_DataStructures 24|1w6 1r31 25|1w6 1r31 23r41 26|40e25
+10E12*GrainVegetable{9E9} 25|24r46 30r47
+15R9*Food_Pack 25|14r18 26|38e14
+21U14*PrintFood_PackShipment 25|36s10
+23V14*getFood_PackFoodType{9E9} 25|24s13 30s13
+27U14*setFood_PackFoodType 25|23s10
+29U14*setFood_PackShipment 25|25s13 27s13
+31V13*RandomFoodType{9E9} 25|23s61
+X 28 gatekeeperservice.ads
+7K9*GateKeeperService 25|2w6 2r30 28|20e22
+10t9*GateKeeper 25|43r10
+13Y13 acceptMessage 25|43s21
+X 33 stats_fooddistribution.ads
+6K9*Stats_FoodDistribution 24|2w6 2r34 33|21e28
+14V13*Next_Exponential{float} 25|48s30
+17V13*PrepareGrainVegetableFood_PackforSales{duration} 25|31s20
+19V13*PrepareMeatFood_PackforSales{duration} 25|33s20
+X 48 s-stausa.ads
+208U14*Initialize 209i<c,__gnat_stack_usage_initialize>22
+273U14*Output_Results 277i<c,__gnat_stack_usage_output_results>22
+

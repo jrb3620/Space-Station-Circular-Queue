@@ -1,0 +1,341 @@
+What is the capacity? 
+
+How many Product Generators?  
+How many points of sale?  
+
+B delivered. 
+
+Front:  0
+Rear:  1
+GateKeeper insert accepted RICE B
+Next grain shipment arrives  9.93067E-01 Time units!
+
+B delivered. 
+
+Front:  0
+Rear:  2
+GateKeeper insert accepted RICE B
+Next grain shipment arrives  1.27761E+00 Time units!
+
+B delivered. 
+
+Front:  0
+Rear:  3
+GateKeeper insert accepted SQUASH B
+Next grain shipment arrives  4.34619E-01 Time units!
+
+B delivered. 
+
+B delivered. 
+
+Front:  0
+Rear:  4
+GateKeeper insert accepted SQUASH B
+Next grain shipment arrives  8.03268E-01 Time units!
+
+Front:  0
+Rear:  5
+GateKeeper insert accepted TOMATO B
+Next grain shipment arrives  1.22679E+00 Time units!
+
+B delivered. 
+
+Front:  0
+Rear:  6
+GateKeeper insert accepted CORN B
+Next grain shipment arrives  3.28606E-01 Time units!
+
+M delivered. 
+
+B delivered. 
+
+ Rejected by GateKeeper: 
+FOWEL M
+ Rejected =           1. Sent to another distribution facility!
+
+
+Next grain shipment arrives  2.27514E+00 Time units!
+
+ Rejected by GateKeeper: 
+TOMATO B
+ Rejected =           2. Sent to another distribution facility!
+
+
+Next grain shipment arrives  8.79319E+00 Time units!
+
+Front:  1
+Rear:  6
+Mgt Desired Food Type To Sell is: Type food is: FISH
+Actual type sold is: RICE
+Food pack removed by GateKeeper for shipment.
+
+B delivered. 
+
+Front:  1
+Rear:  0
+GateKeeper insert accepted POTATOES B
+Next grain shipment arrives  2.00817E-01 Time units!
+
+Retail Sales successfuly sold RICE B
+
+
+Total food sold:  1
+B delivered. 
+
+ Rejected by GateKeeper: 
+TOMATO B
+ Rejected =           3. Sent to another distribution facility!
+
+
+Next grain shipment arrives  1.33046E+00 Time units!
+
+Front:  2
+Rear:  0
+Mgt Desired Food Type To Sell is: Type food is: TOMATO
+Actual type sold is: RICE
+Food pack removed by GateKeeper for shipment.
+
+B delivered. 
+
+Front:  2
+Rear:  1
+GateKeeper insert accepted WHEAT B
+Next grain shipment arrives  7.17555E+00 Time units!
+
+Front:  3
+Rear:  1
+Mgt Desired Food Type To Sell is: Type food is: STEAK
+Actual type sold is: SQUASH
+Food pack removed by GateKeeper for shipment.
+
+Front:  4
+Rear:  1
+Mgt Desired Food Type To Sell is: Type food is: FOWEL
+Actual type sold is: SQUASH
+Food pack removed by GateKeeper for shipment.
+
+Retail Sales successfuly sold SQUASH B
+
+
+Total food sold:  2
+Retail Sales successfuly sold RICE B
+
+
+Total food sold:  3
+Front:  5
+Rear:  1
+Mgt Desired Food Type To Sell is: Type food is: FOWEL
+Actual type sold is: TOMATO
+Food pack removed by GateKeeper for shipment.
+
+B delivered. 
+
+Front:  5
+Rear:  2
+GateKeeper insert accepted WHEAT B
+Next grain shipment arrives  1.82194E-01 Time units!
+
+Retail Sales successfuly sold TOMATO B
+
+
+Total food sold:  4
+B delivered. 
+
+Front:  5
+Rear:  3
+GateKeeper insert accepted SQUASH B
+Next grain shipment arrives  1.30332E+00 Time units!
+
+Front:  6
+Rear:  3
+Mgt Desired Food Type To Sell is: Type food is: PORK
+Actual type sold is: CORN
+Food pack removed by GateKeeper for shipment.
+
+M delivered. 
+
+M delivered. 
+
+Front:  6
+Rear:  4
+GateKeeper insert accepted STEAK M
+Next grain shipment arrives  4.94873E+00 Time units!
+
+Retail Sales successfuly sold CORN B
+
+
+Total food sold:  5
+Retail Sales successfuly sold SQUASH B
+
+
+Total food sold:  6
+Front:  6
+Rear:  5
+GateKeeper insert accepted FOWEL M
+Next grain shipment arrives  2.62977E+00 Time units!
+
+Front:  0
+Rear:  5
+Mgt Desired Food Type To Sell is: Type food is: FOWEL
+Actual type sold is: POTATOES
+Food pack removed by GateKeeper for shipment.
+
+Front:  1
+Rear:  5
+Mgt Desired Food Type To Sell is: Type food is: POTATOES
+Actual type sold is: WHEAT
+Food pack removed by GateKeeper for shipment.
+
+M delivered. 
+
+Front:  1
+Rear:  6
+GateKeeper insert accepted FOWEL M
+Next grain shipment arrives  2.12928E+00 Time units!
+
+M delivered. 
+
+Front:  1
+Rear:  0
+GateKeeper insert accepted STEAK M
+Next grain shipment arrives  3.51390E+00 Time units!
+
+Front:  2
+Rear:  0
+Mgt Desired Food Type To Sell is: Type food is: STEAK
+Actual type sold is: WHEAT
+Food pack removed by GateKeeper for shipment.
+
+Retail Sales successfuly sold POTATOES B
+
+
+Total food sold:  7
+M delivered. 
+
+Retail Sales successfuly sold WHEAT B
+
+
+Total food sold:  8
+Front:  2
+Rear:  1
+GateKeeper insert accepted STEAK M
+Next grain shipment arrives  3.96721E+00 Time units!
+
+Front:  3
+Rear:  1
+Mgt Desired Food Type To Sell is: Type food is: POTATOES
+Actual type sold is: SQUASH
+Food pack removed by GateKeeper for shipment.
+
+Retail Sales successfuly sold WHEAT B
+
+
+Total food sold:  9
+B delivered. 
+
+Front:  3
+Rear:  2
+GateKeeper insert accepted WHEAT B
+Next grain shipment arrives  2.81478E+00 Time units!
+
+Retail Sales successfuly sold SQUASH B
+
+
+Total food sold:  10
+Front:  4
+Rear:  2
+Mgt Desired Food Type To Sell is: Type food is: CORN
+Actual type sold is: STEAK
+Food pack removed by GateKeeper for shipment.
+
+Retail Sales successfuly sold STEAK M
+
+
+Total food sold:  11
+Front:  5
+Rear:  2
+Mgt Desired Food Type To Sell is: Type food is: FOWEL
+Actual type sold is: FOWEL
+Food pack removed by GateKeeper for shipment.
+
+B delivered. 
+
+M delivered. 
+
+Front:  5
+Rear:  3
+GateKeeper insert accepted RICE B
+Next grain shipment arrives  3.15828E+00 Time units!
+
+Front:  5
+Rear:  4
+GateKeeper insert accepted FOWEL M
+Next grain shipment arrives  2.04722E+00 Time units!
+
+Front:  6
+Rear:  4
+Mgt Desired Food Type To Sell is: Type food is: FISH
+Actual type sold is: FOWEL
+Food pack removed by GateKeeper for shipment.
+
+Retail Sales successfuly sold FOWEL M
+
+
+Total food sold:  12
+Front:  0
+Rear:  4
+Mgt Desired Food Type To Sell is: Type food is: POTATOES
+Actual type sold is: STEAK
+Food pack removed by GateKeeper for shipment.
+
+B delivered. 
+
+M delivered. 
+
+Front:  0
+Rear:  5
+GateKeeper insert accepted TOMATO B
+Next grain shipment arrives  1.35389E+00 Time units!
+
+Retail Sales successfuly sold FOWEL M
+
+
+Total food sold:  13
+Retail Sales successfuly sold STEAK M
+
+
+Total food sold:  14
+Front:  0
+Rear:  6
+GateKeeper insert accepted STEAK M
+Next grain shipment arrives  1.62639E+00 Time units!
+
+B delivered. 
+
+Circular queue contents: 
+
+Front:  0
+
+Rear:  6
+
+Total Meat Sold:  4
+
+Total Non-Meat Sold:  10
+
+Total Food Sold:  14
+
+Queue Contents: 
+Food: STEAK
+Food: STEAK
+Food: WHEAT
+Food: RICE
+Food: FOWEL
+Food: TOMATO
+Food: STEAK
+
+
+Hours of operation prior to closing:  41.032872100
+
+
+M delivered. 
+

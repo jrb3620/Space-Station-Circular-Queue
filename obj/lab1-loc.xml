@@ -1,0 +1,517 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 47" line=" 3" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\food_salesservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 4" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\gatekeeperservice.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 72" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 58" line=" 2" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\food_salesservice.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 22" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\distribution_service.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\food_datastructures.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 21" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 21" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\distribution_service.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 12" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\distribution_service.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 30" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 7" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 6" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 7" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 21" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 12" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\distribution_service.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 3" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 6" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 3" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 12" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 24" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 6" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 3" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 35" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 13" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 12" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 3" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 12" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 3" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 5" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 3" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 35" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 12" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 35" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 12" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 35" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 6" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 68" line=" 5" >
+      <vfs_project />
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 15" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 12" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\distribution_service.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 82" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 51" line=" 3" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 12" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\distribution_service.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 81" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\productdistributionmain.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\gatekeeperservice.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\distribution_service.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 12" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\distribution_service.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 5" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 28" line=" 9" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 8" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\gatekeeperservice.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 25" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\productdistributionmain.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 57" line=" 17" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\productdistributionmain.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 7" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 11" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 8" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 6" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 6" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 6" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 56" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 6" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 6" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 6" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 6" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 6" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 6" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 8" line=" 5" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 57" line=" 17" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\productdistributionmain.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 16" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 43" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 6" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 103" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 6" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 35" line=" 61" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 12" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\distribution_service.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 102" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 90" line=" 16" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\gatekeeperservice.ads</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 9" line=" 12" >
+      <vfs_project>C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr</vfs_project>
+      <vfs_file>C:\Users\jonat\Documents\DSA Ada Projects\src\distribution_service.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

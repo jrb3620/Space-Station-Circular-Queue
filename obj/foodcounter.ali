@@ -1,0 +1,18 @@
+V "GNAT Lib v2021"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U foodcounter%s		foodcounter.ads		2d70099d NE OO PK
+
+D foodcounter.ads	20240124164604 2d70099d foodcounter%s
+D system.ads		20210520051136 2ffa5114 system%s
+G a e
+X 1 foodcounter.ads
+1K9*FoodCounter 5l5 5e16
+3i4*soldCounter{integer}
+

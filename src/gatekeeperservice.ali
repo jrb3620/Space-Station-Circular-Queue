@@ -1,0 +1,271 @@
+V "GNAT Lib v2021"
+P ZX
+
+RN
+RV NO_CALENDAR
+RV NO_DELAY
+RV NO_DIRECT_BOOLEAN_OPERATORS
+RV NO_EXCEPTION_HANDLERS
+RV NO_EXCEPTIONS
+RV NO_FIXED_POINT
+RV NO_IO
+RV NO_IMPLICIT_CONDITIONALS
+RV NO_RELATIVE_DELAY
+RV NO_SELECT_STATEMENTS
+RV NO_STANDARD_STORAGE_POOLS
+RV NO_TASKING
+RV NO_DEFAULT_INITIALIZATION
+RV NO_DYNAMIC_SIZED_OBJECTS
+RV NO_IMPLEMENTATION_ASPECT_SPECIFICATIONS
+RV NO_IMPLICIT_LOOPS
+RV NO_ELABORATION_CODE
+RV MAX_SELECT_ALTERNATIVES=2
+RV MAX_TASK_ENTRIES=2
+RV MAX_TASKS=1
+
+U gatekeeperservice%b	gatekeeperservice.adb	16237f04 OO PK
+W ada%s			ada.ads			ada.ali
+W ada.calendar%s	a-calend.adb		a-calend.ali
+Z ada.calendar.delays%s	a-caldel.adb		a-caldel.ali
+Z ada.exceptions%s	a-except.adb		a-except.ali
+Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+Z ada.text_io.generic_aux%s  a-tigeau.adb	a-tigeau.ali
+Z ada.text_io.integer_aux%s
+Z ada.text_io.integer_io%s
+Z circularque%s		circularque.adb		circularque.ali  ED
+Z food_datastructures%s	food_datastructures.adb	food_datastructures.ali  AD
+Z interfaces%s		interfac.ads		interfac.ali
+Z system%s		system.ads		system.ali
+Z system.img_biu%s	s-imgbiu.ads		s-imgbiu.ali
+Z system.img_fixed_64%s	s-imfi64.ads		s-imfi64.ali
+Z system.img_int%s	s-imgint.ads		s-imgint.ali
+Z system.img_llb%s	s-imgllb.ads		s-imgllb.ali
+Z system.img_lli%s	s-imglli.ads		s-imglli.ali
+Z system.img_lllb%s	s-imglllb.ads		s-imglllb.ali
+Z system.img_llli%s	s-imgllli.ads		s-imgllli.ali
+Z system.img_lllw%s	s-imglllw.ads		s-imglllw.ali
+Z system.img_llw%s	s-imgllw.ads		s-imgllw.ali
+Z system.img_wiu%s	s-imgwiu.ads		s-imgwiu.ali
+Z system.soft_links%s	s-soflin.adb		s-soflin.ali
+Z system.tasking%s	s-taskin.adb		s-taskin.ali
+Z system.tasking.rendezvous%s  s-tasren.adb	s-tasren.ali
+Z system.tasking.stages%s  s-tassta.adb		s-tassta.ali
+Z system.val_int%s	s-valint.ads		s-valint.ali
+Z system.val_lli%s	s-vallli.ads		s-vallli.ali
+Z system.val_llli%s	s-valllli.ads		s-valllli.ali
+
+U gatekeeperservice%s	gatekeeperservice.ads	8cbd7418 EE OO PK
+Z ada.real_time%s	a-reatim.adb		a-reatim.ali
+Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
+W circularque%s		circularque.adb		circularque.ali
+W food_datastructures%s	food_datastructures.adb	food_datastructures.ali
+W stats_fooddistribution%s  stats_fooddistribution.adb  stats_fooddistribution.ali
+Z system%s		system.ads		system.ali
+Z system.parameters%s	s-parame.adb		s-parame.ali
+Z system.soft_links%s	s-soflin.adb		s-soflin.ali
+Z system.task_info%s	s-tasinf.adb		s-tasinf.ali
+Z system.tasking%s	s-taskin.adb		s-taskin.ali
+Z system.tasking.stages%s  s-tassta.adb		s-tassta.ali
+
+D ada.ads		20210520051132 76789da1 ada%s
+D a-calend.ads		20210520051128 474d9720 ada.calendar%s
+D a-caldel.ads		20210520051128 9f20b83d ada.calendar.delays%s
+D a-except.ads		20210520051128 946f3014 ada.exceptions%s
+D a-finali.ads		20210520051128 bf4f806b ada.finalization%s
+D a-flteio.ads		20210520051128 e18a47a0 ada.float_text_io%s
+D a-inteio.ads		20210520051128 f64b89a4 ada.integer_text_io%s
+D a-ioexce.ads		20210520051128 e4a01f64 ada.io_exceptions%s
+D a-numeri.ads		20210520051130 84bea7a3 ada.numerics%s
+D a-nudira.ads		20210520051130 5984dff3 ada.numerics.discrete_random%s
+D a-nuflra.ads		20210520051130 4056ab7a ada.numerics.float_random%s
+D a-reatim.ads		20210520051128 0240fc73 ada.real_time%s
+D a-stream.ads		20210520051130 119b8fb3 ada.streams%s
+D a-string.ads		20210520051130 90ac6797 ada.strings%s
+D a-sttebu.ads		20210520051130 18209c64 ada.strings.text_buffers%s
+D a-stuten.ads		20210520051130 808c40ad ada.strings.utf_encoding%s
+D a-tags.ads		20210520051130 9eaa38c6 ada.tags%s
+D a-textio.ads		20210520051130 aef4d56d ada.text_io%s
+D a-tienio.ads		20210520051130 2e79c9bf ada.text_io.enumeration_io%s
+D a-tiflio.ads		20210520051130 fcca4daa ada.text_io.float_io%s
+D a-tigeau.ads		20210520051130 e643cdf3 ada.text_io.generic_aux%s
+D a-tiinau.ads		20210520051130 1c79f78d ada.text_io.integer_aux%s
+D a-tiinau.adb		20210520051130 89004916 ada.text_io.integer_aux%b
+D a-tiinio.ads		20210520051130 390edddb ada.text_io.integer_io%s
+D a-tiinio.adb		20210520051130 b79731f4 ada.text_io.integer_io%b
+D a-unccon.ads		20210520051130 0e9b276f ada.unchecked_conversion%s
+D circularque.ads	20240124015832 88d0461e circularque%s
+D circularque.adb	20240124022214 0c3045e8 circularque%b
+D food_datastructures.ads  20240124023404 a9838647 food_datastructures%s
+D gatekeeperservice.ads	20240124170928 f65830f4 gatekeeperservice%s
+D gatekeeperservice.adb	20240124170946 09c20dbd gatekeeperservice%b
+D interfac.ads		20210520051132 edec285f interfaces%s
+D i-c.ads		20210520051132 d9beded9 interfaces.c%s
+D i-cstrin.ads		20210520051132 341d0ddf interfaces.c.strings%s
+D i-cstrea.ads		20210520051132 e53d8b8e interfaces.c_streams%s
+D stats_fooddistribution.ads  20240124023404 5bb684b5 stats_fooddistribution%s
+D system.ads		20210520051136 2ffa5114 system%s
+D s-atacco.ads		20210520051132 4c36d12f system.address_to_access_conversions%s
+D s-arit64.ads		20210520051132 5f88d2b0 system.arith_64%s
+D s-crtl.ads		20210520051132 0ebbdb71 system.crtl%s
+D s-exctab.ads		20210520051132 54135002 system.exception_table%s
+D s-ficobl.ads		20210520051132 078245e4 system.file_control_block%s
+D s-finroo.ads		20210520051132 4ff27390 system.finalization_root%s
+D s-imageb.ads		20210520051134 3953e0e6 system.image_b%s
+D s-imagef.ads		20210520051134 019cdf69 system.image_f%s
+D s-imagei.ads		20210520051134 0d3f86a7 system.image_i%s
+D s-imagew.ads		20210520051134 9d2dd267 system.image_w%s
+D s-imgbiu.ads		20210520051134 0a8e1c41 system.img_biu%s
+D s-imfi64.ads		20210520051134 dbac59b3 system.img_fixed_64%s
+D s-imgint.ads		20210520051134 bdb6f5ec system.img_int%s
+D s-imgllb.ads		20210520051134 47d0db9f system.img_llb%s
+D s-imglli.ads		20210520051134 3723d9ff system.img_lli%s
+D s-imglllb.ads		20210520051134 30212eed system.img_lllb%s
+D s-imgllli.ads		20210520051134 5cf3dc07 system.img_llli%s
+D s-imglllw.ads		20210520051134 9e2b0560 system.img_lllw%s
+D s-imgllw.ads		20210520051134 bf9c9c15 system.img_llw%s
+D s-imgwiu.ads		20210520051134 912a95f2 system.img_wiu%s
+D s-multip.ads		20210520051134 38ac9f73 system.multiprocessors%s
+D s-osinte.ads		20210520051128 97504df8 system.os_interface%s
+D s-parame.ads		20210520051134 4752c4cb system.parameters%s
+D s-putima.ads		20210520051134 4e095881 system.put_images%s
+D s-rannum.ads		20210520051134 c3978523 system.random_numbers%s
+D s-secsta.ads		20210520051134 9b3ab94b system.secondary_stack%s
+D s-soflin.ads		20210520051134 a7318a92 system.soft_links%s
+D s-stache.ads		20210520051134 a37c21ec system.stack_checking%s
+D s-stausa.ads		20210520051134 017a0a05 system.stack_usage%s
+D s-stalib.ads		20210520051134 472fbca8 system.standard_library%s
+D s-stoele.ads		20210520051134 2dc34a04 system.storage_elements%s
+D s-stoele.adb		20210520051134 ed88f8fb system.storage_elements%b
+D s-tasinf.ads		20210520051128 601f6b72 system.task_info%s
+D s-taspri.ads		20210520051128 a1350802 system.task_primitives%s
+D s-taprop.ads		20210520051128 6eefbe12 system.task_primitives.operations%s
+D s-taskin.ads		20210520051128 88fba9ad system.tasking%s
+D s-taprob.ads		20210520051128 acd6094d system.tasking.protected_objects%s
+D s-tpoben.ads		20210520051128 60ad3dae system.tasking.protected_objects.entries%s
+D s-tasren.ads		20210520051128 a67a9949 system.tasking.rendezvous%s
+D s-tassta.ads		20210520051128 cca55c94 system.tasking.stages%s
+D s-traent.ads		20210520051134 26a8d361 system.traceback_entries%s
+D s-unstyp.ads		20210520051134 2b077493 system.unsigned_types%s
+D s-valint.ads		20210520051134 e7fcadb7 system.val_int%s
+D s-vallli.ads		20210520051134 0767e6f3 system.val_lli%s
+D s-valllli.ads		20210520051134 f758e795 system.val_llli%s
+D s-vallllu.ads		20210520051134 87566fa4 system.val_lllu%s
+D s-valllu.ads		20210520051134 660d930f system.val_llu%s
+D s-valuns.ads		20210520051134 dac7b45d system.val_uns%s
+D s-valuei.ads		20210520051134 978dd0a6 system.value_i%s
+D s-valueu.ads		20210520051134 7b8fccf5 system.value_u%s
+D s-wchcon.ads		20210520051136 1b7d22d2 system.wch_con%s
+D s-win32.ads		20210520051136 15ac53fb system.win32%s
+D unchconv.ads		20210520051136 ca2f9e18 unchecked_conversion%s
+G a e
+G c b b b [b gatekeeperservice 4 1 none]
+G c Z s b [gatekeeperTK gatekeeperservice 8 8 none]
+G c Z s b [acceptmessage gatekeeperservice__gatekeeper 10 13 none]
+G c Z s b [retrievemessage gatekeeperservice__gatekeeper 13 13 none]
+G c Z s s [gatekeeperTKVIP gatekeeperservice 8 3 none]
+G c Z s s [P2sIP gatekeeperservice 10 7 none]
+G c Z s s [P6sIP gatekeeperservice 13 7 none]
+G c Z b b [get gatekeeperservice__integerio 51 14 6_4]
+G c Z b b [get gatekeeperservice__integerio 59 14 6_4]
+G c Z b b [put gatekeeperservice__integerio 68 14 6_4]
+G c Z b b [put gatekeeperservice__integerio 80 14 6_4]
+G c Z b b [get gatekeeperservice__integerio 90 14 6_4]
+G c Z b b [put gatekeeperservice__integerio 97 14 6_4]
+G c Z b b [get gatekeeperservice__integerio__aux_int 52 14 48_4_6_4]
+G c Z b b [gets gatekeeperservice__integerio__aux_int 57 14 48_4_6_4]
+G c Z b b [put gatekeeperservice__integerio__aux_int 62 14 48_4_6_4]
+G c Z b b [puts gatekeeperservice__integerio__aux_int 68 14 48_4_6_4]
+G c Z b b [get gatekeeperservice__integerio__aux_lli 52 14 56_4_6_4]
+G c Z b b [gets gatekeeperservice__integerio__aux_lli 57 14 56_4_6_4]
+G c Z b b [put gatekeeperservice__integerio__aux_lli 62 14 56_4_6_4]
+G c Z b b [puts gatekeeperservice__integerio__aux_lli 68 14 56_4_6_4]
+G c Z b b [get gatekeeperservice__integerio__aux_llli 52 14 64_4_6_4]
+G c Z b b [gets gatekeeperservice__integerio__aux_llli 57 14 64_4_6_4]
+G c Z b b [put gatekeeperservice__integerio__aux_llli 62 14 64_4_6_4]
+G c Z b b [puts gatekeeperservice__integerio__aux_llli 68 14 64_4_6_4]
+G r s food_pack [b gatekeeperservice 4 1 none] [food_packIP food_datastructures 35 9 none]
+G r i none [b gatekeeperservice 4 1 none] [circularque standard 7 10 none]
+G r c none [b gatekeeperservice 4 1 none] [printfood_pack food_datastructures 17 14 none]
+G r c none [b gatekeeperservice 4 1 none] [randomfoodtype food_datastructures 31 13 none]
+G r c none [b gatekeeperservice 4 1 none] [printfoodtype food_datastructures 32 14 none]
+G r c none [b gatekeeperservice 4 1 none] [printfood_packtype food_datastructures 19 14 none]
+G r s food_pack [acceptmessage gatekeeperservice__gatekeeper 10 13 none] [food_packIP food_datastructures 35 9 none]
+G r i none [acceptmessage gatekeeperservice__gatekeeper 10 13 none] [circularque standard 7 10 none]
+G r c none [acceptmessage gatekeeperservice__gatekeeper 10 13 none] [printfood_pack food_datastructures 17 14 none]
+G r c none [acceptmessage gatekeeperservice__gatekeeper 10 13 none] [randomfoodtype food_datastructures 31 13 none]
+G r c none [acceptmessage gatekeeperservice__gatekeeper 10 13 none] [printfoodtype food_datastructures 32 14 none]
+G r c none [acceptmessage gatekeeperservice__gatekeeper 10 13 none] [printfood_packtype food_datastructures 19 14 none]
+G r s food_pack [retrievemessage gatekeeperservice__gatekeeper 13 13 none] [food_packIP food_datastructures 35 9 none]
+G r i none [retrievemessage gatekeeperservice__gatekeeper 13 13 none] [circularque standard 7 10 none]
+G r c none [retrievemessage gatekeeperservice__gatekeeper 13 13 none] [printfood_pack food_datastructures 17 14 none]
+G r c none [retrievemessage gatekeeperservice__gatekeeper 13 13 none] [randomfoodtype food_datastructures 31 13 none]
+G r c none [retrievemessage gatekeeperservice__gatekeeper 13 13 none] [printfoodtype food_datastructures 32 14 none]
+G r c none [retrievemessage gatekeeperservice__gatekeeper 13 13 none] [printfood_packtype food_datastructures 19 14 none]
+G r s food_pack [gatekeeperTK gatekeeperservice 8 8 none] [food_packIP food_datastructures 35 9 none]
+G r i none [gatekeeperTK gatekeeperservice 8 8 none] [circularque standard 7 10 none]
+G r c none [gatekeeperTK gatekeeperservice 8 8 none] [printfood_pack food_datastructures 17 14 none]
+G r c none [gatekeeperTK gatekeeperservice 8 8 none] [randomfoodtype food_datastructures 31 13 none]
+G r c none [gatekeeperTK gatekeeperservice 8 8 none] [printfoodtype food_datastructures 32 14 none]
+G r c none [gatekeeperTK gatekeeperservice 8 8 none] [printfood_packtype food_datastructures 19 14 none]
+X 1 ada.ads
+16K9*Ada 20e8 31|1r6 1r24 2r6 2r25 6r29 19r19 20r19 25r21 29r30 84r7 84r43
+X 2 a-calend.ads
+36K13*Calendar 413e17 31|2w10 2r29 19r23 20r23 25r25 29r34 84r47
+42I9*Time<226I9> 31|19r32 20r32
+56V13*Clock{42I9} 31|25s34 29s43 84s56
+103V14*"+"{42I9} 31|26s30
+112V14*"-"{duration} 31|84s62
+120V14*"<"{boolean} 31|29s49
+226I9 Time_Rep<long_long_integer>
+X 18 a-textio.ads
+58K13*Text_IO 725e16 31|1w10 1r28 6r33 84r11
+262U14*New_Line 31|50s46 53s53 54s46 56s68 72s80 74s72 83s7 84s78
+463U14*Put 31|49s19 53s19 55s19 56s19 70s18 72s18 74s18 83s21
+506U14*Put_Line 31|84s19
+X 24 a-tiinio.ads
+46k21*Integer_IO 108e27 31|6r41
+80U14 Put 31|55s40[6]
+X 27 circularque.ads
+7k10*CircularQue 19e17 30|3w6 31|10r36
+9U14 acceptMessage 31|48s33[10]
+11U14 retrieveMessage 31|67s32[10]
+13V13 circularQueEmpty{boolean} 31|64s36[10]
+15V13 circularQueFull{boolean} 31|47s24[10]
+X 29 food_datastructures.ads
+5K9*Food_DataStructures 40e25 30|1w6 1r32
+9E9*Food_Type 9e93 31|17r33
+15R9*Food_Pack 38e14 30|10r40 13r43 31|10r49 46r47 61r50
+17U14*PrintFood_Pack 31|50s19 54s19
+19U14*PrintFood_PackType 31|72s49
+31V13*RandomFoodType{9E9} 31|69s46
+32U14*PrintFoodType 31|71s18
+X 30 gatekeeperservice.ads
+6K9*GateKeeperService 17l5 17e22 31|4b14 88l5 88t22
+8t8*GateKeeper 31|8b14 87l8 87t18
+10Y13 acceptMessage 10>28 31|46b20 58l17 58t30
+10r28 newFood{29|15R9} 31|48r48 50r35 54r35
+13Y13 retrieveMessage 13<30 13<54 31|61b20 76l17 76t32
+13r30 newFood{29|15R9} 31|67m49 67r49 72m69 72r69
+13b54 availableForShipment{boolean} 31|62m15 62r15 65m18 65r18
+X 31 gatekeeperservice.adb
+6K12 IntegerIO[24|46] 6r67
+10K15 CircularQueue[27|7] 11r11 48r19 64r22 67r18
+14i7 rejected{integer} 29r13 52m19 52r31 55r44
+17e7 MgtDesiredFoodTypeToSell{29|9E9} 69m18 71r33
+19i7 Start_Time{2|42I9} 25m7 26r19 84r64
+20i7 End_Time{2|42I9} 26m7 29r51
+46r35 newFood{29|15R9}
+61r37 newFood{29|15R9}
+61b61 availableForShipment{boolean}
+X 32 interfac.ads
+55I9*Integer_64<long_long_integer>
+X 36 stats_fooddistribution.ads
+6K9*Stats_FoodDistribution 30|2w6 2r35 36|21e28
+X 39 s-arit64.ads
+44I12*Int64{32|55I9}
+54V13*Multiply_With_Ovflo_Check64{44I12} 55i<c,__gnat_mulv64>22
+X 66 s-stausa.ads
+208U14*Initialize 209i<c,__gnat_stack_usage_initialize>22
+273U14*Output_Results 277i<c,__gnat_stack_usage_output_results>22
+

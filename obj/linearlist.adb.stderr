@@ -1,0 +1,2 @@
+linearlist.ads:9:01: error: missing "return"
+linearlist.ads:9:01: error: reserved word "package" cannot be used as identifier

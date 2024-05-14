@@ -1,0 +1,22 @@
+[MAPPING FILE]
+C:\Users\jonat\AppData\Local\Temp\GNAT-TEMP-000005.TMP
+[TOOLCHAIN VERSION]
+ada
+GNAT 2021
+[MAIN BASE NAME]
+circular_que
+[COMPILER PATH]
+c:\gnat\2021\bin\gcc.exe
+[COMPILER LEADING SWITCHES]
+-c
+-x
+ada
+-gnatA
+[MAIN DEPENDENCY FILE]
+C:\Users\jonat\Documents\DSA Ada Projects\obj\circular_que.ali
+[DEPENDENCY FILES]
+[BINDING OPTIONS]
+gnatbind_prefix=
+[PROJECT FILES]
+C:\Users\jonat\Documents\DSA Ada Projects\lab1.gpr
+20240124015808 9e6506d4d7e9227f5e3df652f5f39293
